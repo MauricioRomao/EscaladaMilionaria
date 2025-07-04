@@ -1,12 +1,45 @@
-# React + Vite
+# 🚀 Escalada Milionária
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Objetivo:**  
+Fortalecer as bases em **React** por meio da prática contínua, organização de ideias e construção de projetos reais.  
+A proposta é subir degrau por degrau até alcançar excelência em desenvolvimento front-end!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 O que você vai encontrar aqui:
 
-## Expanding the ESLint configuration
+- Conceitos fundamentais e avançados de **React.js**
+- Organização de pastas e estrutura profissional de projeto
+- Boas práticas com **JSX**, **hooks**, **componentes reutilizáveis** e mais
+- Uso de ferramentas modernas: **Vite**, **ESLint**, **Prettier**, etc.
+- Projetos e desafios para consolidar o aprendizado
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Escalada](/src/Components/Header/Image/Escalada-Milionaria-logo.svg)
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- ⚛️ React
+- 🧱 HTML5 + CSS3
+- 📦 Vite
+- 🧹 ESLint + Prettier
+- 💾 Git & GitHub
+
+---
+
+## 💡 Por que "Escalada Milionária"?
+
+Porque o foco é escalar não só o conhecimento técnico, mas também a confiança, a disciplina e a clareza no código — como se cada commit fosse um passo rumo a um objetivo grande.
+
+---
+
+
+
+> Feito com 💻, café ☕ e muita vontade de crescer!  
+> por **Maurício Romão**
+
